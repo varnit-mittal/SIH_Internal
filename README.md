@@ -6,15 +6,7 @@ This repository contains an implementation for fine-tuning a Vision Transformer 
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Visualizing Predictions](#visualizing-predictions)
-- [Results](#results)
-- [Future Work](#future-work)
-- [License](#license)
-
+  
 ## Overview
 This project fine-tunes a pre-trained ViT model from the Hugging Face `transformers` library for image classification on the CIFAR-10 dataset. The CIFAR-10 dataset contains 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 
@@ -37,3 +29,12 @@ cd SIH_Internal
 
 # Install required Python packages
 pip install torch torchvision transformers matplotlib
+```
+
+## Contributors
+- Varnit Mittal
+- Aditya Priyadarshi
+- Swetha Murali
+- Mohit Naik
+- Dyuthi Vivek
+- Ananthakrishna K
